@@ -10,7 +10,7 @@
 	</div>
 	<div class="content">
 		<!-- [BEGIN] Organizer application links -->
-		 <!-- TODO: Add application links -->
+		 <!-- TODO: Add application links. Copy the format of hackathon application links below! -->
 		<!-- [END] Organizer application links -->
 
 		<!-- [BEGIN] Hackathon application links -->
