@@ -7,7 +7,7 @@
 	<div class="keynote-wrapper">
 		<div class="image">
 			<div class="image-wrapper">
-				<img src="/images/keynote.jpeg" alt="Keynote speaker headshot" />
+				<img src="images/keynote.jpeg" alt="Keynote speaker headshot" />
 			</div>
 		</div>
 		<div class="description">

@@ -6,7 +6,7 @@
 <section>
 	<div class="background"></div>
 	<div class="chocolate">
-		<img src="/images/hero-section-chocobar.png" alt="AthenaHacks chocolate keyboard. March 2-3" />
+		<img src="images/hero-section-chocobar.png" alt="AthenaHacks chocolate keyboard. March 2-3" />
 	</div>
 	<div class="content">
 		<!-- [BEGIN] Organizer application links -->
@@ -36,7 +36,7 @@
 		<Socials />
 		<div class="tech-together">
 			<p><small><i>AthenaHacks powered by </i></small></p>
-			<img src="/images/sponsors/tech-together.png" alt="TechTogether logo">
+			<img src="images/sponsors/tech-together.png" alt="TechTogether logo">
 		</div>
 	</div>
 </section>
@@ -49,7 +49,7 @@
 		min-height: 100vh;
 
 		.background {
-			background-image: url('/images/hero-section-cover.png');
+			background-image: url('images/hero-section-cover.png');
 			background-size: cover;
 			background-repeat: no-repeat;
 			width: 100%;

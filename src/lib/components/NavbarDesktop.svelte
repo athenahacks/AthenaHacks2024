@@ -58,7 +58,7 @@
 	<nav>
 		<!-- Left hand side logo -->
 		<button class="home-square" on:click={scrollToTop}>
-			<img src="/images/nav-logo.png" alt="Home" />
+			<img src="images/nav-logo.png" alt="Home" />
 		</button>
 
 		<!-- Navigation anchor links -->

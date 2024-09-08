@@ -5,23 +5,23 @@
 <section id="sponsors">
 	<Header
 		>Sponsors
-		<img class="macaron-stack" src="/images/macaron-stack.png" alt="macaron stack" />
+		<img class="macaron-stack" src="images/macaron-stack.png" alt="macaron stack" />
 	</Header>
 	<div class="sponsor-list">
 		<div class="section tier-1">
-			<img class="macaron" src="/images/macaron-gold.png" alt="macaron decoration" />
+			<img class="macaron" src="images/macaron-gold.png" alt="macaron decoration" />
 			<img
 				class="sponsor"
-				src="/images/sponsors/bloomberg-engineering.png"
+				src="images/sponsors/bloomberg-engineering.png"
 				alt="Bloomberg Engineering"
 			/>
-			<img class="sponsor" src="/images/sponsors/chevron.png" alt="Chevron" />
+			<img class="sponsor" src="images/sponsors/chevron.png" alt="Chevron" />
 		</div>
 		<div class="section tier-3">
-			<img class="macaron" src="/images/macaron-pink.png" alt="macaron decoration" />
-			<img class="sponsor" src="/images/sponsors/google-cloud.png" alt="Google Cloud" />
-			<img class="sponsor" src="/images/sponsors/rewriting-the-code.png" alt="Rewriting The Code" />
-			<!-- <img class="sponsor" src="/images/sponsors/figma.png" alt="Figma" /> -->
+			<img class="macaron" src="images/macaron-pink.png" alt="macaron decoration" />
+			<img class="sponsor" src="images/sponsors/google-cloud.png" alt="Google Cloud" />
+			<img class="sponsor" src="images/sponsors/rewriting-the-code.png" alt="Rewriting The Code" />
+			<!-- <img class="sponsor" src="images/sponsors/figma.png" alt="Figma" /> -->
 		</div>
 	</div>
 	<div class="thank-you-message">
@@ -31,7 +31,7 @@
 				>athenahacks@gmail.com</a
 			>
 		</p>
-		<img src="/images/pencil.png" alt="Pencil" />
+		<img src="images/pencil.png" alt="Pencil" />
 	</div>
 </section>
 

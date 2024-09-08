@@ -4,17 +4,17 @@
 	let currView = 0;
 	const slides = [
 		{
-			image: '/images/slides/slide0.png',
+			image: 'images/slides/slide0.png',
 			description:
 				"From hardware to mobile, there are so many fields to explore! We want women to explore their ideas and interests, and are looking forward to some amazing projects! Check out last year's projects <a href='https://athenahacks2023.devpost.com/project-gallery' target='_blank'>here</a>!"
 		},
 		{
-			image: '/images/slides/slide1.png',
+			image: 'images/slides/slide1.png',
 			description:
 				"We're all about helping each other grow! We hope to foster a supportive environment so that each participant at AthenaHacks feels welcome, comfortable and empowered."
 		},
 		{
-			image: '/images/slides/slide2.png',
+			image: 'images/slides/slide2.png',
 			description:
 				'Right now, only 20% of hackathon participants are women. We hope to fill that gap by providing a comfortable environment that is focused on learning and exploring!'
 		}

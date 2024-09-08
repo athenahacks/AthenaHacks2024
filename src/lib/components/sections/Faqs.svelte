@@ -14,7 +14,7 @@
 		</div>
 		<div class="image">
 			<figure>
-				<img src="/images/faq.png" alt="Pastry owl" />
+				<img src="images/faq.png" alt="Pastry owl" />
 				<figcaption>
 					Don’t see your question? Hit us up at <a href="mailto:athenahacks@gmail.com"
 						>athenahacks@gmail.com</a
